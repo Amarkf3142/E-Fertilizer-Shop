@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514060777407",
+    "project_id": "onlinefertilizershop-281f7",
+    "storage_bucket": "onlinefertilizershop-281f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514060777407:android:ec758c93c27f629df7130a",
+        "android_client_info": {
+          "package_name": "com.Shop.shopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514060777407-ainl1e8lea2qs4q2gri27p6kn99gnk6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfazGYRGzQJGT4BaNQfS5cH0A5PvtlZjo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514060777407-ainl1e8lea2qs4q2gri27p6kn99gnk6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
